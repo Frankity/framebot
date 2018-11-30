@@ -1,0 +1,1 @@
+start C:\Users\Ama\venv\Scripts\python.exe Main.py
